@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8053
     wikipedia: http://de.wikipedia.org/wiki/Friedrich_Gerst%C3%A4cker
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29464#Tahiti--Roman-aus-der-S-dsee.-Zweiter-Band.
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2009-07-20'
 gutenberg_type: Text
