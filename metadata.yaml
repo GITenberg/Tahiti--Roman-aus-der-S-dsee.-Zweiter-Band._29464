@@ -1,0 +1,32 @@
+_repo: Tahiti--Roman-aus-der-S-dsee.-Zweiter-Band._29464
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gerstäcker, Friedrich
+    aliases:
+    - Gerstäcker, Friedrich Wilhelm Christian
+    - Gerstaecker, Frederick
+    - Gerstacker, Friedrich
+    birthdate: 1816
+    deathdate: 1872
+    gutenberg_agent_id: '8053'
+    url: http://www.gutenberg.org/2009/agents/8053
+    wikipedia: http://de.wikipedia.org/wiki/Friedrich_Gerst%C3%A4cker
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2009-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29464'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tahiti (French Polynesia : Island) -- Fiction'
+- !lcc 'PT'
+title: 'Tahiti: Roman aus der Südsee. Zweiter Band.'
+url: http://www.gutenberg.org/ebooks/29464
